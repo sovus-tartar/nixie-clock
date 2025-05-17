@@ -10,15 +10,13 @@ Cпроектировать и сконструировать часы на га
 
 ### Индикаторы
 
-Для реализации проекта были выбраны индикаторы ввиду их доступности на Авито.
+Для реализации проекта были выбраны индикаторы ввиду их доступности на Авито. Документация: [ссылка](https://www.belchip.by/sitedocs/in14.pdf)
 ![image](https://github.com/user-attachments/assets/062d897e-ce6e-4f94-9e3f-2cd2dcdca8f1)
-Документация: [ссылка](https://www.belchip.by/sitedocs/in14.pdf)
 
 ### Плата
 Для разработки платы был выбран Altium Designer. PCB схема по [ссылке](https://github.com/sovus-tartar/gas-clock/tree/main/pcb)
 
 ![image](https://github.com/user-attachments/assets/ac83226a-479f-441f-b03e-6b125f855b9e)
-
 
 Плата были заказаны на заводе [Электроконнект](https://pselectro.ru)
 
