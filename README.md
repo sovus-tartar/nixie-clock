@@ -11,13 +11,13 @@ Cпроектировать и сконструировать часы на га
 #### Индикаторы
 Для реализации проекта были выбраны индикаторы ввиду их доступности на Авито.
 ![image](https://github.com/user-attachments/assets/062d897e-ce6e-4f94-9e3f-2cd2dcdca8f1)
-Документация: [[ссылка](https://www.belchip.by/sitedocs/in14.pdf)]
+Документация: [ссылка](https://www.belchip.by/sitedocs/in14.pdf)
 
 #### Плата
 Для разработки платы был выбран Altium Designer. PCB схема здесь[ссылка]
 ![image](https://github.com/user-attachments/assets/916f6063-7eff-4f47-96af-a7a969f5fda8)
 
-Плата были заказаны на заводе [Электроконнект (https://pselectro.ru)]
+Плата были заказаны на заводе [Электроконнект](https://pselectro.ru)]
 
 #### Прочие компоненты
 Перечень необходимой обвязки для проекта:
