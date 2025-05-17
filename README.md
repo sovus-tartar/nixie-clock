@@ -17,7 +17,7 @@ Cпроектировать и сконструировать часы на га
 ### Плата
 Для разработки платы был выбран Altium Designer. PCB схема по [ссылке](https://github.com/sovus-tartar/gas-clock/tree/main/pcb)
 
-[![image](https://github.com/user-attachments/assets/916f6063-7eff-4f47-96af-a7a969f5fda8)](https://github.com/sovus-tartar/gas-clock/tree/main)
+![image](https://github.com/user-attachments/assets/e1df6629-aa77-41cc-a11c-090b5ce9ed7a)
 
 Плата были заказаны на заводе [Электроконнект](https://pselectro.ru)
 
