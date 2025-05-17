@@ -9,12 +9,14 @@ Cпроектировать и сконструировать часы на га
 Разработка прозводилась в Arduino IDE.
 
 ### Индикаторы
+
 Для реализации проекта были выбраны индикаторы ввиду их доступности на Авито.
 ![image](https://github.com/user-attachments/assets/062d897e-ce6e-4f94-9e3f-2cd2dcdca8f1)
 Документация: [ссылка](https://www.belchip.by/sitedocs/in14.pdf)
 
 ### Плата
-Для разработки платы был выбран Altium Designer. PCB схема здесь[ссылка]
+Для разработки платы был выбран Altium Designer. PCB схема по [ссылке](https://github.com/sovus-tartar/gas-clock/tree/main/pcb)
+
 ![image](https://github.com/user-attachments/assets/916f6063-7eff-4f47-96af-a7a969f5fda8)
 
 Плата были заказаны на заводе [Электроконнект](https://pselectro.ru)
@@ -32,7 +34,7 @@ Cпроектировать и сконструировать часы на га
 8. CF-100 (CI-4) 1 Br, 150 Ом, 5%, Резистор углеродистый — 5 шт.
 
 ### Корпус
-Корпус было решено печатать на 3D принтере. Для разработки использовалась программа SolidWorks. [Ссылка] на файл проекта
+Корпус было решено печатать на 3D принтере. Для разработки использовалась программа SolidWorks. [Ссылка](https://github.com/sovus-tartar/gas-clock/tree/main/pcb) на файл проекта
 
 ![image](https://github.com/user-attachments/assets/5b833d4b-5348-4c53-af05-43e57753e7fa)
 
