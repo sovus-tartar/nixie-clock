@@ -39,5 +39,9 @@ Cпроектировать и сконструировать часы на га
 
 ### Фото готового изделия
 
-![image](https://github.com/user-attachments/assets/3d6b0c19-bb8e-48c2-a6bd-309b2ce69bac)
+![photo_2025-05-18_17-34-26](https://github.com/user-attachments/assets/ad85f525-a96e-4b1b-977d-e3399714460d)
+
+### Видео с готовым изделием
+
+![video](https://github.com/user-attachments/assets/5918ca06-4706-4ea5-b1b2-e5c358f9ba01)
 
